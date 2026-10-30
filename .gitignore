@@ -1,0 +1,45 @@
+
+# Ambiente virtual
+.venv/
+venv/
+env/
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+
+# Jupyter
+.ipynb_checkpoints/
+.virtual_documents/
+
+# Arquivos temporários
+*.tmp
+*.log
+*.bak
+
+# Configurações locais
+.env
+.env.*
+!.env.example
+
+# Credenciais
+secrets.json
+credentials.json
+*.pem
+*.key
+
+# Arquivos de bancos locais
+*.duckdb
+*.duckdb.wal
+
+# Sistema operacional
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+
+# Documentos privados do curso
+*.docx
