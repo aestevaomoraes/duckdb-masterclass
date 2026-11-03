@@ -43,3 +43,27 @@ Thumbs.db
 
 # Documentos privados do curso
 *.docx
+
+# Backups e versões antigas
+olds/
+
+# Pasta de distribuição dos notebooks
+DuckDB_Masterclass_Notebooks_03_a_14_Atualizados/
+
+# Dados locais e bancos de laboratório
+dados/
+*.duckdb
+*.duckdb.wal
+*.wal
+*.sqlite
+*.sqlite3
+
+# Arquivos temporários e credenciais
+.ipynb_checkpoints/
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+credentials.json
+secrets.json
