@@ -34,7 +34,7 @@ Cada capítulo busca seguir uma abordagem progressiva:
 
 **Conceito → Teoria → Laboratório guiado → Experimentação → Desafio profissional → Avaliação.**
 
-Os notebooks são acompanhados de atividades de mentoria por Inteligência Artificial com revisão técnica junto ao aluno. A proposta incentiva o aluno a interpretar resultados e compreender decisões de engenharia, em vez de apenas reproduzir comandos.
+Os notebooks são complementados por uma trilha de mentoria assistida por Inteligência Artificial durante todo o curso. As aulas são construídas a partir de documentação oficial, referências técnicas confiáveis e boas práticas adotadas pelo mercado. O foco está no desenvolvimento do raciocínio analítico e da compreensão dos conceitos de engenharia de dados, permitindo que o aluno entenda o porquê de cada decisão, e não apenas execute comandos de forma mecânica.
 
 ## 📚 Estrutura curricular
 
