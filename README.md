@@ -34,7 +34,7 @@ Cada capítulo busca seguir uma abordagem progressiva:
 
 **Conceito → Teoria → Laboratório guiado → Experimentação → Desafio profissional → Avaliação.**
 
-Os notebooks são acompanhados de atividades de mentoria e revisão técnica. A proposta incentiva o aluno a interpretar resultados e compreender decisões de engenharia, em vez de apenas reproduzir comandos.
+Os notebooks são acompanhados de atividades de mentoria por IA e revisão técnica junto ao aluno. A proposta incentiva o aluno a interpretar resultados e compreender decisões de engenharia, em vez de apenas reproduzir comandos.
 
 ## 📚 Estrutura curricular
 
